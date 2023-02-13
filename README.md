@@ -1,9 +1,9 @@
 # Pet project
 ### Function Description
 
-**Retention rate** is the retention rate of users. It shows how many clients return to the application for a certain period after installation.
+**Retention rate** shows how many clients return to the application for a certain period after installation.
 
-To use the function, you need to set the start date of the period and the end date of the period.
+To use the function, you need to set the start date and the end date of the period.
 
 **Requirements**
 1. The start date must be greater than the end date of the period and is indicated in quotation marks.
